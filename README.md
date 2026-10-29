@@ -110,7 +110,13 @@ client_socket.close()
 ```
 
 ## Output:
+### Server Output:
 
+<img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/85a54237-c476-485c-94d2-3bc7b1db28cb" />
+
+### Client Output:
+
+<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/124faae3-75dc-479f-87e7-0d016d2cf674" />
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
+Thus the study of Socket Programming Completed Successfully.
