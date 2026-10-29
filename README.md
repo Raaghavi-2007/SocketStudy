@@ -54,7 +54,7 @@ Socket programming finds applications in various domains, including web developm
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
 ## Algorithm:
-1. 1. Start the program.
+1. Start the program.
 2. Create a socket using the socket() function.
 3. Assign an IP address and port number to the server using bind().
 4. Make the server listen for client connections using listen().
